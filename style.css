@@ -6,7 +6,9 @@
   font-family: 'Poppins', sans-serif;
 }
 body{
-  
+  display: flex;
+  align-items: center;
+  justify-content: center;
   min-height: 100vh;
   overflow: hidden;
   background-repeat: no-repeat;
