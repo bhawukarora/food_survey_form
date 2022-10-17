@@ -9,8 +9,13 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
+<<<<<<< HEAD
   
+=======
+  min-height: 40vh;
+>>>>>>> 5f07f817d1d1674d75cd8b7434a085bc90b3a4a8
   overflow: hidden;
+  background-repeat: no-repeat;
   background: url("bg.png"), -webkit-linear-gradient(bottom, #0250c5, #d43f8d);
 }
 ::selection{
