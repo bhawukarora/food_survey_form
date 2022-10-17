@@ -9,7 +9,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
+  
   overflow: hidden;
   background: url("bg.png"), -webkit-linear-gradient(bottom, #0250c5, #d43f8d);
 }
